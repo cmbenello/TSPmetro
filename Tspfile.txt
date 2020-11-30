@@ -1,0 +1,2844 @@
+{
+    "City_Name": "London",
+    "Stations": {
+        "List of stations": [
+            "Acton Town0",
+            "Aldgate1",
+            "Aldgate East2",
+            "Alperton3",
+            "Amersham4",
+            "Angel5",
+            "Archway6",
+            "Arnos Grove7",
+            "Arsenal8",
+            "Baker Street9",
+            "Balham10",
+            "Bank11",
+            "Barbican12",
+            "Barking13",
+            "Barkingside14",
+            "Barons Court15",
+            "Bayswater16",
+            "Becontree17",
+            "Belsize Park18",
+            "Bermondsey19",
+            "Bethnal Green20",
+            "Blackfriars21",
+            "Blackhorse Road22",
+            "Bond Street23",
+            "Borough24",
+            "Boston Manor25",
+            "Bounds Green26",
+            "Bow Road27",
+            "Brent Cross28",
+            "Brixton29",
+            "Bromley-by-Bow30",
+            "Buckhurst Hill31",
+            "Burnt Oak32",
+            "Caledonian Road33",
+            "Camden Town34",
+            "Canada Water35",
+            "Canary Wharf36",
+            "Canning Town37",
+            "Cannon Street38",
+            "Canons Park39",
+            "Chalfont & Latimer40",
+            "Chalk Farm41",
+            "Chancery Lane42",
+            "Charing Cross43",
+            "Chesham44",
+            "Chigwell45",
+            "Chiswick Park46",
+            "Chorleywood47",
+            "Clapham Common48",
+            "Clapham North49",
+            "Clapham South50",
+            "Cockfosters51",
+            "Colindale52",
+            "Colliers Wood53",
+            "Covent Garden54",
+            "Croxley55",
+            "Dagenham East56",
+            "Dagenham Heathway57",
+            "Debden58",
+            "Dollis Hill59",
+            "Ealing Broadway60",
+            "Ealing Common61",
+            "Earl's Court62",
+            "East Acton63",
+            "East Finchley64",
+            "East Ham65",
+            "East Putney66",
+            "Eastcote67",
+            "Edgware68",
+            "Edgware Road69",
+            "Edgware Road70",
+            "Elephant & Castle71",
+            "Elm Park72",
+            "Embankment73",
+            "Epping74",
+            "Euston75",
+            "Euston Square76",
+            "Fairlop77",
+            "Farringdon78",
+            "Finchley Central79",
+            "Finchley Road80",
+            "Finsbury Park81",
+            "Fulham Broadway82",
+            "Gants Hill83",
+            "Gloucester Road84",
+            "Golders Green85",
+            "Goldhawk Road86",
+            "Goodge Street87",
+            "Grange Hill88",
+            "Great Portland Street89",
+            "Greenford90",
+            "Green Park91",
+            "Gunnersbury92",
+            "Hainault93",
+            "Hammersmith94",
+            "Hammersmith95",
+            "Hampstead96",
+            "Hanger Lane97",
+            "Harlesden98",
+            "Harrow & Wealdstone99",
+            "Harrow-on-the-Hill100",
+            "Hatton Cross101",
+            "Heathrow Terminals 2 & 3102",
+            "Heathrow Terminal 4103",
+            "Heathrow Terminal 5104",
+            "Hendon Central105",
+            "High Barnet106",
+            "Highbury & Islington107",
+            "Highgate108",
+            "High Street Kensington109",
+            "Hillingdon110",
+            "Holborn111",
+            "Holland Park112",
+            "Holloway Road113",
+            "Hornchurch114",
+            "Hounslow Central115",
+            "Hounslow East116",
+            "Hounslow West117",
+            "Hyde Park Corner118",
+            "Ickenham119",
+            "Kennington120",
+            "Kensal Green121",
+            "Kensington (Olympia)122",
+            "Kentish Town123",
+            "Kenton124",
+            "Kew Gardens125",
+            "Kilburn126",
+            "Kilburn Park127",
+            "Kingsbury128",
+            "King's Cross St Pancras129",
+            "Knightsbridge130",
+            "Ladbroke Grove131",
+            "Lambeth North132",
+            "Lancaster Gate133",
+            "Latimer Road134",
+            "Leicester Square135",
+            "Leyton136",
+            "Leytonstone137",
+            "Liverpool Street138",
+            "London Bridge139",
+            "Loughton140",
+            "Maida Vale141",
+            "Manor House142",
+            "Mansion House143",
+            "Marble Arch144",
+            "Marylebone145",
+            "Mile End146",
+            "Mill Hill East147",
+            "Monument148",
+            "Moorgate149",
+            "Moor Park150",
+            "Morden151",
+            "Mornington Crescent152",
+            "Neasden153",
+            "Newbury Park154",
+            "North Acton155",
+            "North Ealing156",
+            "North Greenwich157",
+            "North Harrow158",
+            "North Wembley159",
+            "Northfields160",
+            "Northolt161",
+            "Northwick Park162",
+            "Northwood163",
+            "Northwood Hills164",
+            "Notting Hill Gate165",
+            "Oakwood166",
+            "Old Street167",
+            "Osterley168",
+            "Oval169",
+            "Oxford Circus170",
+            "Paddington171",
+            "Paddington172",
+            "Park Royal173",
+            "Parsons Green174",
+            "Perivale175",
+            "Piccadilly Circus176",
+            "Pimlico177",
+            "Pinner178",
+            "Plaistow179",
+            "Preston Road180",
+            "Putney Bridge181",
+            "Queen's Park182",
+            "Queensbury183",
+            "Queensway184",
+            "Ravenscourt Park185",
+            "Rayners Lane186",
+            "Redbridge187",
+            "Regent's Park188",
+            "Richmond189",
+            "Rickmansworth190",
+            "Roding Valley191",
+            "Royal Oak192",
+            "Ruislip193",
+            "Ruislip Gardens194",
+            "Ruislip Manor195",
+            "Russell Square196",
+            "St. James's Park197",
+            "St. John's Wood198",
+            "St. Paul's199",
+            "Seven Sisters200",
+            "Shepherd's Bush201",
+            "Shepherd's Bush Market202",
+            "Sloane Square203",
+            "Snaresbrook204",
+            "South Ealing205",
+            "South Harrow206",
+            "South Kensington207",
+            "South Kenton208",
+            "South Ruislip209",
+            "South Wimbledon210",
+            "South Woodford211",
+            "Southfields212",
+            "Southgate213",
+            "Southwark214",
+            "Stamford Brook215",
+            "Stanmore216",
+            "Stepney Green217",
+            "Stockwell218",
+            "Stonebridge Park219",
+            "Stratford220",
+            "Sudbury Hill221",
+            "Sudbury Town222",
+            "Swiss Cottage223",
+            "Temple224",
+            "Theydon Bois225",
+            "Tooting Bec226",
+            "Tooting Broadway227",
+            "Tottenham Court Road228",
+            "Tottenham Hale229",
+            "Totteridge & Whetstone230",
+            "Tower Hill231",
+            "Tufnell Park232",
+            "Turnham Green233",
+            "Turnpike Lane234",
+            "Upminster235",
+            "Upminster Bridge236",
+            "Upney237",
+            "Upton Park238",
+            "Uxbridge239",
+            "Vauxhall240",
+            "Victoria241",
+            "Walthamstow Central242",
+            "Wanstead243",
+            "Warren Street244",
+            "Warwick Avenue245",
+            "Waterloo246",
+            "Watford247",
+            "Wembley Central248",
+            "Wembley Park249",
+            "West Acton250",
+            "West Brompton251",
+            "West Finchley252",
+            "West Ham253",
+            "West Hampstead254",
+            "West Harrow255",
+            "West Kensington256",
+            "West Ruislip257",
+            "Westbourne Park258",
+            "Westminster259",
+            "White City260",
+            "Whitechapel261",
+            "Willesden Green262",
+            "Willesden Junction263",
+            "Wimbledon264",
+            "Wimbledon Park265",
+            "Wood Green266",
+            "Wood Lane267",
+            "Woodford268",
+            "Woodside Park269"
+        ],
+        "Properties of stations": {
+            "Acton Town0": {
+                "Station_Name": "Acton Town",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.50297459999999,
+                    -0.2803334
+                ]
+            },
+            "Aldgate1": {
+                "Station_Name": "Aldgate",
+                "Lines": "['Metropolitan', 'Circle']",
+                "Coordinates": [
+                    51.51424,
+                    -0.07565999999999999
+                ]
+            },
+            "Aldgate East2": {
+                "Station_Name": "Aldgate East",
+                "Lines": "['Hammersmith & City', 'District']",
+                "Coordinates": [
+                    51.51556189999999,
+                    -0.07124219999999999
+                ]
+            },
+            "Alperton3": {
+                "Station_Name": "Alperton",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5407153,
+                    -0.2993331
+                ]
+            },
+            "Amersham4": {
+                "Station_Name": "Amersham",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.67417649999999,
+                    -0.607387
+                ]
+            },
+            "Angel5": {
+                "Station_Name": "Angel",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5327443,
+                    -0.1058732
+                ]
+            },
+            "Archway6": {
+                "Station_Name": "Archway",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5653976,
+                    -0.1348735
+                ]
+            },
+            "Arnos Grove7": {
+                "Station_Name": "Arnos Grove",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.6163429,
+                    -0.1334962
+                ]
+            },
+            "Arsenal8": {
+                "Station_Name": "Arsenal",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5584175,
+                    -0.1056624
+                ]
+            },
+            "Baker Street9": {
+                "Station_Name": "Baker Street",
+                "Lines": "['Metropolitan', 'Bakerloo', 'Circle', 'Jubilee', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5231577,
+                    -0.156863
+                ]
+            },
+            "Balham10": {
+                "Station_Name": "Balham",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.44322,
+                    -0.1524
+                ]
+            },
+            "Bank11": {
+                "Station_Name": "Bank",
+                "Lines": "['Waterloo & City', 'Northern', 'Central']",
+                "Coordinates": [
+                    51.513388,
+                    -0.0889145
+                ]
+            },
+            "Barbican12": {
+                "Station_Name": "Barbican",
+                "Lines": "['Metropolitan', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5201825,
+                    -0.0976046
+                ]
+            },
+            "Barking13": {
+                "Station_Name": "Barking",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5395507,
+                    0.0809453
+                ]
+            },
+            "Barkingside14": {
+                "Station_Name": "Barkingside",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5858751,
+                    0.0885483
+                ]
+            },
+            "Barons Court15": {
+                "Station_Name": "Barons Court",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.49030459999999,
+                    -0.213467
+                ]
+            },
+            "Bayswater16": {
+                "Station_Name": "Bayswater",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.5123525,
+                    -0.1877694
+                ]
+            },
+            "Becontree17": {
+                "Station_Name": "Becontree",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.5403728,
+                    0.1274227
+                ]
+            },
+            "Belsize Park18": {
+                "Station_Name": "Belsize Park",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.55046420000001,
+                    -0.1642939
+                ]
+            },
+            "Bermondsey19": {
+                "Station_Name": "Bermondsey",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.4978636,
+                    -0.0637319
+                ]
+            },
+            "Bethnal Green20": {
+                "Station_Name": "Bethnal Green",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5240698,
+                    -0.05943379999999999
+                ]
+            },
+            "Blackfriars21": {
+                "Station_Name": "Blackfriars",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.5113976,
+                    -0.103214
+                ]
+            },
+            "Blackhorse Road22": {
+                "Station_Name": "Blackhorse Road",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.58656389999999,
+                    -0.040413
+                ]
+            },
+            "Bond Street23": {
+                "Station_Name": "Bond Street",
+                "Lines": "['Central', 'Jubilee']",
+                "Coordinates": [
+                    51.5142641,
+                    -0.1491578
+                ]
+            },
+            "Borough24": {
+                "Station_Name": "Borough",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.501267,
+                    -0.09368699999999999
+                ]
+            },
+            "Boston Manor25": {
+                "Station_Name": "Boston Manor",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.495767,
+                    -0.3247429000000001
+                ]
+            },
+            "Bounds Green26": {
+                "Station_Name": "Bounds Green",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.6071396,
+                    -0.1243025
+                ]
+            },
+            "Bow Road27": {
+                "Station_Name": "Bow Road",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5269601,
+                    -0.0247607
+                ]
+            },
+            "Brent Cross28": {
+                "Station_Name": "Brent Cross",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5768423,
+                    -0.2133947
+                ]
+            },
+            "Brixton29": {
+                "Station_Name": "Brixton",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.46289669999999,
+                    -0.1135107
+                ]
+            },
+            "Bromley-by-Bow30": {
+                "Station_Name": "Bromley-by-Bow",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5248722,
+                    -0.0116202
+                ]
+            },
+            "Buckhurst Hill31": {
+                "Station_Name": "Buckhurst Hill",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6265847,
+                    0.0467045
+                ]
+            },
+            "Burnt Oak32": {
+                "Station_Name": "Burnt Oak",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6026868,
+                    -0.2641567
+                ]
+            },
+            "Caledonian Road33": {
+                "Station_Name": "Caledonian Road",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5485467,
+                    -0.118191
+                ]
+            },
+            "Camden Town34": {
+                "Station_Name": "Camden Town",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5393847,
+                    -0.1426546
+                ]
+            },
+            "Canada Water35": {
+                "Station_Name": "Canada Water",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.49798999999999,
+                    -0.049693
+                ]
+            },
+            "Canary Wharf36": {
+                "Station_Name": "Canary Wharf",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5034523,
+                    -0.0177002
+                ]
+            },
+            "Canning Town37": {
+                "Station_Name": "Canning Town",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5144111,
+                    0.008480699999999999
+                ]
+            },
+            "Cannon Street38": {
+                "Station_Name": "Cannon Street",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.51138,
+                    -0.09026999999999999
+                ]
+            },
+            "Canons Park39": {
+                "Station_Name": "Canons Park",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.607601,
+                    -0.2946105
+                ]
+            },
+            "Chalfont & Latimer40": {
+                "Station_Name": "Chalfont & Latimer",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6123242,
+                    -0.5561674
+                ]
+            },
+            "Chalk Farm41": {
+                "Station_Name": "Chalk Farm",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5441127,
+                    -0.1536819
+                ]
+            },
+            "Chancery Lane42": {
+                "Station_Name": "Chancery Lane",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5182067,
+                    -0.1114984
+                ]
+            },
+            "Charing Cross43": {
+                "Station_Name": "Charing Cross",
+                "Lines": "['Bakerloo', 'Northern']",
+                "Coordinates": [
+                    51.50813640000001,
+                    -0.1247618
+                ]
+            },
+            "Chesham44": {
+                "Station_Name": "Chesham",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.7052095,
+                    -0.6110651
+                ]
+            },
+            "Chigwell45": {
+                "Station_Name": "Chigwell",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6178933,
+                    0.07448529999999999
+                ]
+            },
+            "Chiswick Park46": {
+                "Station_Name": "Chiswick Park",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4943703,
+                    -0.2677369
+                ]
+            },
+            "Chorleywood47": {
+                "Station_Name": "Chorleywood",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6542194,
+                    -0.518273
+                ]
+            },
+            "Clapham Common48": {
+                "Station_Name": "Clapham Common",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4617918,
+                    -0.138375
+                ]
+            },
+            "Clapham North49": {
+                "Station_Name": "Clapham North",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4646447,
+                    -0.1294246
+                ]
+            },
+            "Clapham South50": {
+                "Station_Name": "Clapham South",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4528116,
+                    -0.1478256
+                ]
+            },
+            "Cockfosters51": {
+                "Station_Name": "Cockfosters",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.6516667,
+                    -0.1497377
+                ]
+            },
+            "Colindale52": {
+                "Station_Name": "Colindale",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5953885,
+                    -0.249469
+                ]
+            },
+            "Colliers Wood53": {
+                "Station_Name": "Colliers Wood",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.41806800000001,
+                    -0.1779156
+                ]
+            },
+            "Covent Garden54": {
+                "Station_Name": "Covent Garden",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5130007,
+                    -0.1241621
+                ]
+            },
+            "Croxley55": {
+                "Station_Name": "Croxley",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6470961,
+                    -0.4417006
+                ]
+            },
+            "Dagenham East56": {
+                "Station_Name": "Dagenham East",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.5441712,
+                    0.1658853
+                ]
+            },
+            "Dagenham Heathway57": {
+                "Station_Name": "Dagenham Heathway",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.5417047,
+                    0.1476975
+                ]
+            },
+            "Debden58": {
+                "Station_Name": "Debden",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.64540059999999,
+                    0.08388319999999999
+                ]
+            },
+            "Dollis Hill59": {
+                "Station_Name": "Dollis Hill",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5527575,
+                    -0.238832
+                ]
+            },
+            "Ealing Broadway60": {
+                "Station_Name": "Ealing Broadway",
+                "Lines": "['District', 'Central']",
+                "Coordinates": [
+                    51.5149011,
+                    -0.3019246
+                ]
+            },
+            "Ealing Common61": {
+                "Station_Name": "Ealing Common",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.5102292,
+                    -0.2882146
+                ]
+            },
+            "Earl's Court62": {
+                "Station_Name": "Earl's Court",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.492186,
+                    -0.1930925
+                ]
+            },
+            "East Acton63": {
+                "Station_Name": "East Acton",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5166167,
+                    -0.2474664
+                ]
+            },
+            "East Finchley64": {
+                "Station_Name": "East Finchley",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.58711169999999,
+                    -0.1645647
+                ]
+            },
+            "East Ham65": {
+                "Station_Name": "East Ham",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5390451,
+                    0.0514335
+                ]
+            },
+            "East Putney66": {
+                "Station_Name": "East Putney",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4590253,
+                    -0.2108388
+                ]
+            },
+            "Eastcote67": {
+                "Station_Name": "Eastcote",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5765526,
+                    -0.3971429
+                ]
+            },
+            "Edgware68": {
+                "Station_Name": "Edgware",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6134935,
+                    -0.2753675
+                ]
+            },
+            "Edgware Road69": {
+                "Station_Name": "Edgware Road",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5202627,
+                    -0.1702314
+                ]
+            },
+            "Edgware Road70": {
+                "Station_Name": "Edgware Road",
+                "Lines": "['Hammersmith & City', 'District', 'Circle']",
+                "Coordinates": [
+                    51.5202627,
+                    -0.1702314
+                ]
+            },
+            "Elephant & Castle71": {
+                "Station_Name": "Elephant & Castle",
+                "Lines": "['Northern', 'Bakerloo']",
+                "Coordinates": [
+                    Infinity,
+                    Infinity
+                ]
+            },
+            "Elm Park72": {
+                "Station_Name": "Elm Park",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.54988059999999,
+                    0.1991651
+                ]
+            },
+            "Embankment73": {
+                "Station_Name": "Embankment",
+                "Lines": "['District', 'Bakerloo', 'Northern', 'Circle']",
+                "Coordinates": [
+                    51.5072554,
+                    -0.1221937
+                ]
+            },
+            "Epping74": {
+                "Station_Name": "Epping",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.693684,
+                    0.113794
+                ]
+            },
+            "Euston75": {
+                "Station_Name": "Euston",
+                "Lines": "['Northern', 'Victoria']",
+                "Coordinates": [
+                    51.5280991,
+                    -0.1332084
+                ]
+            },
+            "Euston Square76": {
+                "Station_Name": "Euston Square",
+                "Lines": "['Metropolitan', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5256201,
+                    -0.1368809
+                ]
+            },
+            "Fairlop77": {
+                "Station_Name": "Fairlop",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5957484,
+                    0.0909494
+                ]
+            },
+            "Farringdon78": {
+                "Station_Name": "Farringdon",
+                "Lines": "['Metropolitan', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5202076,
+                    -0.1048177
+                ]
+            },
+            "Finchley Central79": {
+                "Station_Name": "Finchley Central",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.60105,
+                    -0.1924272
+                ]
+            },
+            "Finchley Road80": {
+                "Station_Name": "Finchley Road",
+                "Lines": "['Metropolitan', 'Jubilee']",
+                "Coordinates": [
+                    51.5469511,
+                    -0.1798916
+                ]
+            },
+            "Finsbury Park81": {
+                "Station_Name": "Finsbury Park",
+                "Lines": "['Piccadilly', 'Victoria']",
+                "Coordinates": [
+                    51.5647222,
+                    -0.1057601
+                ]
+            },
+            "Fulham Broadway82": {
+                "Station_Name": "Fulham Broadway",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4802592,
+                    -0.1944142
+                ]
+            },
+            "Gants Hill83": {
+                "Station_Name": "Gants Hill",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.57654789999999,
+                    0.0663573
+                ]
+            },
+            "Gloucester Road84": {
+                "Station_Name": "Gloucester Road",
+                "Lines": "['District', 'Piccadilly', 'Circle']",
+                "Coordinates": [
+                    51.49432,
+                    -0.18263
+                ]
+            },
+            "Golders Green85": {
+                "Station_Name": "Golders Green",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5722247,
+                    -0.1944159
+                ]
+            },
+            "Goldhawk Road86": {
+                "Station_Name": "Goldhawk Road",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5018056,
+                    -0.2264944
+                ]
+            },
+            "Goodge Street87": {
+                "Station_Name": "Goodge Street",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.52049659999999,
+                    -0.1346317
+                ]
+            },
+            "Grange Hill88": {
+                "Station_Name": "Grange Hill",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6133964,
+                    0.0921236
+                ]
+            },
+            "Great Portland Street89": {
+                "Station_Name": "Great Portland Street",
+                "Lines": "['Metropolitan', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.522972,
+                    -0.143897
+                ]
+            },
+            "Greenford90": {
+                "Station_Name": "Greenford",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5423355,
+                    -0.3463373
+                ]
+            },
+            "Green Park91": {
+                "Station_Name": "Green Park",
+                "Lines": "['Piccadilly', 'Victoria', 'Jubilee']",
+                "Coordinates": [
+                    51.5069125,
+                    -0.1428496
+                ]
+            },
+            "Gunnersbury92": {
+                "Station_Name": "Gunnersbury",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4914862,
+                    -0.2754377
+                ]
+            },
+            "Hainault93": {
+                "Station_Name": "Hainault",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6042765,
+                    0.0946925
+                ]
+            },
+            "Hammersmith94": {
+                "Station_Name": "Hammersmith",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.493483,
+                    -0.2248261
+                ]
+            },
+            "Hammersmith95": {
+                "Station_Name": "Hammersmith",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.493483,
+                    -0.2248261
+                ]
+            },
+            "Hampstead96": {
+                "Station_Name": "Hampstead",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.556664,
+                    -0.1783111
+                ]
+            },
+            "Hanger Lane97": {
+                "Station_Name": "Hanger Lane",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5300395,
+                    -0.2930002
+                ]
+            },
+            "Harlesden98": {
+                "Station_Name": "Harlesden",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5362222,
+                    -0.2572527
+                ]
+            },
+            "Harrow & Wealdstone99": {
+                "Station_Name": "Harrow & Wealdstone",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.580559,
+                    -0.341995
+                ]
+            },
+            "Harrow-on-the-Hill100": {
+                "Station_Name": "Harrow-on-the-Hill",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.5794148,
+                    -0.3369884
+                ]
+            },
+            "Hatton Cross101": {
+                "Station_Name": "Hatton Cross",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.466743,
+                    -0.423171
+                ]
+            },
+            "Heathrow Terminals 2 & 3102": {
+                "Station_Name": "Heathrow Terminals 2 & 3",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.46957580000001,
+                    -0.4496072
+                ]
+            },
+            "Heathrow Terminal 4103": {
+                "Station_Name": "Heathrow Terminal 4",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.45827000000001,
+                    -0.44544
+                ]
+            },
+            "Heathrow Terminal 5104": {
+                "Station_Name": "Heathrow Terminal 5",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.4701528,
+                    -0.4904267
+                ]
+            },
+            "Hendon Central105": {
+                "Station_Name": "Hendon Central",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5830902,
+                    -0.2267512
+                ]
+            },
+            "High Barnet106": {
+                "Station_Name": "High Barnet",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6503081,
+                    -0.1939139
+                ]
+            },
+            "Highbury & Islington107": {
+                "Station_Name": "Highbury & Islington",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.5569649,
+                    -0.0979656
+                ]
+            },
+            "Highgate108": {
+                "Station_Name": "Highgate",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.57762839999999,
+                    -0.1457677
+                ]
+            },
+            "High Street Kensington109": {
+                "Station_Name": "High Street Kensington",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.5009395,
+                    -0.1926878
+                ]
+            },
+            "Hillingdon110": {
+                "Station_Name": "Hillingdon",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5537882,
+                    -0.4499684
+                ]
+            },
+            "Holborn111": {
+                "Station_Name": "Holborn",
+                "Lines": "['Central', 'Piccadilly']",
+                "Coordinates": [
+                    51.5175079,
+                    -0.1199355
+                ]
+            },
+            "Holland Park112": {
+                "Station_Name": "Holland Park",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.50714000000001,
+                    -0.20565
+                ]
+            },
+            "Holloway Road113": {
+                "Station_Name": "Holloway Road",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5528181,
+                    -0.1128281
+                ]
+            },
+            "Hornchurch114": {
+                "Station_Name": "Hornchurch",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.55406929999999,
+                    0.2190275
+                ]
+            },
+            "Hounslow Central115": {
+                "Station_Name": "Hounslow Central",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.4711535,
+                    -0.3668243
+                ]
+            },
+            "Hounslow East116": {
+                "Station_Name": "Hounslow East",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.4730837,
+                    -0.3563475
+                ]
+            },
+            "Hounslow West117": {
+                "Station_Name": "Hounslow West",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.4731166,
+                    -0.3857189
+                ]
+            },
+            "Hyde Park Corner118": {
+                "Station_Name": "Hyde Park Corner",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5026795,
+                    -0.153512
+                ]
+            },
+            "Ickenham119": {
+                "Station_Name": "Ickenham",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5620552,
+                    -0.4419453
+                ]
+            },
+            "Kennington120": {
+                "Station_Name": "Kennington",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.48827370000001,
+                    -0.105614
+                ]
+            },
+            "Kensal Green121": {
+                "Station_Name": "Kensal Green",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.53054,
+                    -0.225247
+                ]
+            },
+            "Kensington (Olympia)122": {
+                "Station_Name": "Kensington (Olympia)",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.497893,
+                    -0.2103319
+                ]
+            },
+            "Kentish Town123": {
+                "Station_Name": "Kentish Town",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5503601,
+                    -0.1404776
+                ]
+            },
+            "Kenton124": {
+                "Station_Name": "Kenton",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5818443,
+                    -0.3171355
+                ]
+            },
+            "Kew Gardens125": {
+                "Station_Name": "Kew Gardens",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.47714509999999,
+                    -0.2850662
+                ]
+            },
+            "Kilburn126": {
+                "Station_Name": "Kilburn",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5469276,
+                    -0.2042087
+                ]
+            },
+            "Kilburn Park127": {
+                "Station_Name": "Kilburn Park",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.534691,
+                    -0.19367
+                ]
+            },
+            "Kingsbury128": {
+                "Station_Name": "Kingsbury",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5848468,
+                    -0.2787047
+                ]
+            },
+            "King's Cross St Pancras129": {
+                "Station_Name": "King's Cross St Pancras",
+                "Lines": "['Metropolitan', 'Northern', 'Piccadilly', 'Circle', 'Victoria', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.531427,
+                    -0.126133
+                ]
+            },
+            "Knightsbridge130": {
+                "Station_Name": "Knightsbridge",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5015326,
+                    -0.1605382
+                ]
+            },
+            "Ladbroke Grove131": {
+                "Station_Name": "Ladbroke Grove",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5173333,
+                    -0.2102969
+                ]
+            },
+            "Lambeth North132": {
+                "Station_Name": "Lambeth North",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.4989177,
+                    -0.1121086
+                ]
+            },
+            "Lancaster Gate133": {
+                "Station_Name": "Lancaster Gate",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.51180979999999,
+                    -0.1751776
+                ]
+            },
+            "Latimer Road134": {
+                "Station_Name": "Latimer Road",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5134548,
+                    -0.2177014
+                ]
+            },
+            "Leicester Square135": {
+                "Station_Name": "Leicester Square",
+                "Lines": "['Piccadilly', 'Northern']",
+                "Coordinates": [
+                    51.51139,
+                    -0.1284
+                ]
+            },
+            "Leyton136": {
+                "Station_Name": "Leyton",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5565645,
+                    -0.0058715
+                ]
+            },
+            "Leytonstone137": {
+                "Station_Name": "Leytonstone",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5682599,
+                    0.0085202
+                ]
+            },
+            "Liverpool Street138": {
+                "Station_Name": "Liverpool Street",
+                "Lines": "['Metropolitan', 'Central', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.51875159999999,
+                    -0.0814374
+                ]
+            },
+            "London Bridge139": {
+                "Station_Name": "London Bridge",
+                "Lines": "['Northern', 'Jubilee']",
+                "Coordinates": [
+                    51.5042558,
+                    -0.08477559999999999
+                ]
+            },
+            "Loughton140": {
+                "Station_Name": "Loughton",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6415471,
+                    0.0552271
+                ]
+            },
+            "Maida Vale141": {
+                "Station_Name": "Maida Vale",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.52987779999999,
+                    -0.1857278
+                ]
+            },
+            "Manor House142": {
+                "Station_Name": "Manor House",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.57074000000001,
+                    -0.09609
+                ]
+            },
+            "Mansion House143": {
+                "Station_Name": "Mansion House",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.5123815,
+                    -0.093752
+                ]
+            },
+            "Marble Arch144": {
+                "Station_Name": "Marble Arch",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5135418,
+                    -0.1592044
+                ]
+            },
+            "Marylebone145": {
+                "Station_Name": "Marylebone",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5224906,
+                    -0.1631669
+                ]
+            },
+            "Mile End146": {
+                "Station_Name": "Mile End",
+                "Lines": "['District', 'Hammersmith & City', 'Central']",
+                "Coordinates": [
+                    51.5251447,
+                    -0.0334172
+                ]
+            },
+            "Mill Hill East147": {
+                "Station_Name": "Mill Hill East",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.608321,
+                    -0.2099435
+                ]
+            },
+            "Monument148": {
+                "Station_Name": "Monument",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.5108828,
+                    -0.08660870000000001
+                ]
+            },
+            "Moorgate149": {
+                "Station_Name": "Moorgate",
+                "Lines": "['Metropolitan', 'Northern', 'Circle', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5184165,
+                    -0.0889151
+                ]
+            },
+            "Moor Park150": {
+                "Station_Name": "Moor Park",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6297909,
+                    -0.4326607
+                ]
+            },
+            "Morden151": {
+                "Station_Name": "Morden",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.402248,
+                    -0.1947068
+                ]
+            },
+            "Mornington Crescent152": {
+                "Station_Name": "Mornington Crescent",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.53406510000001,
+                    -0.1390384
+                ]
+            },
+            "Neasden153": {
+                "Station_Name": "Neasden",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.55403339999999,
+                    -0.2497321
+                ]
+            },
+            "Newbury Park154": {
+                "Station_Name": "Newbury Park",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5756592,
+                    0.0902892
+                ]
+            },
+            "North Acton155": {
+                "Station_Name": "North Acton",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5219526,
+                    -0.2580821
+                ]
+            },
+            "North Ealing156": {
+                "Station_Name": "North Ealing",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5175662,
+                    -0.2890518
+                ]
+            },
+            "North Greenwich157": {
+                "Station_Name": "North Greenwich",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.50024519999999,
+                    0.0035842
+                ]
+            },
+            "North Harrow158": {
+                "Station_Name": "North Harrow",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.58482919999999,
+                    -0.3621449
+                ]
+            },
+            "North Wembley159": {
+                "Station_Name": "North Wembley",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5627808,
+                    -0.3041611
+                ]
+            },
+            "Northfields160": {
+                "Station_Name": "Northfields",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.4993588,
+                    -0.3142307
+                ]
+            },
+            "Northolt161": {
+                "Station_Name": "Northolt",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.54823,
+                    -0.36868
+                ]
+            },
+            "Northwick Park162": {
+                "Station_Name": "Northwick Park",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.5785081,
+                    -0.3178373
+                ]
+            },
+            "Northwood163": {
+                "Station_Name": "Northwood",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6112297,
+                    -0.423889
+                ]
+            },
+            "Northwood Hills164": {
+                "Station_Name": "Northwood Hills",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6006218,
+                    -0.4093582
+                ]
+            },
+            "Notting Hill Gate165": {
+                "Station_Name": "Notting Hill Gate",
+                "Lines": "['District', 'Central', 'Circle']",
+                "Coordinates": [
+                    51.5091109,
+                    -0.1964511
+                ]
+            },
+            "Oakwood166": {
+                "Station_Name": "Oakwood",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.6476401,
+                    -0.1318275
+                ]
+            },
+            "Old Street167": {
+                "Station_Name": "Old Street",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5256892,
+                    -0.0875624
+                ]
+            },
+            "Osterley168": {
+                "Station_Name": "Osterley",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.48103039999999,
+                    -0.3519527
+                ]
+            },
+            "Oval169": {
+                "Station_Name": "Oval",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4820272,
+                    -0.1127875
+                ]
+            },
+            "Oxford Circus170": {
+                "Station_Name": "Oxford Circus",
+                "Lines": "['Central', 'Bakerloo', 'Victoria']",
+                "Coordinates": [
+                    51.51521169999999,
+                    -0.1418553
+                ]
+            },
+            "Paddington171": {
+                "Station_Name": "Paddington",
+                "Lines": "['District', 'Circle', 'Bakerloo']",
+                "Coordinates": [
+                    51.5166744,
+                    -0.1769328
+                ]
+            },
+            "Paddington172": {
+                "Station_Name": "Paddington",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5166744,
+                    -0.1769328
+                ]
+            },
+            "Park Royal173": {
+                "Station_Name": "Park Royal",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5269773,
+                    -0.2843797
+                ]
+            },
+            "Parsons Green174": {
+                "Station_Name": "Parsons Green",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4752816,
+                    -0.2010216
+                ]
+            },
+            "Perivale175": {
+                "Station_Name": "Perivale",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.53667979999999,
+                    -0.3237969
+                ]
+            },
+            "Piccadilly Circus176": {
+                "Station_Name": "Piccadilly Circus",
+                "Lines": "['Bakerloo', 'Piccadilly']",
+                "Coordinates": [
+                    51.510121,
+                    -0.1341683
+                ]
+            },
+            "Pimlico177": {
+                "Station_Name": "Pimlico",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.48923689999999,
+                    -0.1333998
+                ]
+            },
+            "Pinner178": {
+                "Station_Name": "Pinner",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.5928838,
+                    -0.3808446
+                ]
+            },
+            "Plaistow179": {
+                "Station_Name": "Plaistow",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5312296,
+                    0.01785
+                ]
+            },
+            "Preston Road180": {
+                "Station_Name": "Preston Road",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.5718737,
+                    -0.2949536
+                ]
+            },
+            "Putney Bridge181": {
+                "Station_Name": "Putney Bridge",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4678669,
+                    -0.2097248
+                ]
+            },
+            "Queen's Park182": {
+                "Station_Name": "Queen's Park",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5341503,
+                    -0.20462
+                ]
+            },
+            "Queensbury183": {
+                "Station_Name": "Queensbury",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5942415,
+                    -0.2861271
+                ]
+            },
+            "Queensway184": {
+                "Station_Name": "Queensway",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5105046,
+                    -0.1872537
+                ]
+            },
+            "Ravenscourt Park185": {
+                "Station_Name": "Ravenscourt Park",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4939908,
+                    -0.236075
+                ]
+            },
+            "Rayners Lane186": {
+                "Station_Name": "Rayners Lane",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5751034,
+                    -0.3708618
+                ]
+            },
+            "Redbridge187": {
+                "Station_Name": "Redbridge",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5763039,
+                    0.0454532
+                ]
+            },
+            "Regent's Park188": {
+                "Station_Name": "Regent's Park",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5235956,
+                    -0.1466931
+                ]
+            },
+            "Richmond189": {
+                "Station_Name": "Richmond",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4632798,
+                    -0.3017462
+                ]
+            },
+            "Rickmansworth190": {
+                "Station_Name": "Rickmansworth",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6403542,
+                    -0.4735959
+                ]
+            },
+            "Roding Valley191": {
+                "Station_Name": "Roding Valley",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6171644,
+                    0.0438972
+                ]
+            },
+            "Royal Oak192": {
+                "Station_Name": "Royal Oak",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.51911,
+                    -0.18872
+                ]
+            },
+            "Ruislip193": {
+                "Station_Name": "Ruislip",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.57152060000001,
+                    -0.4213522
+                ]
+            },
+            "Ruislip Gardens194": {
+                "Station_Name": "Ruislip Gardens",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.56038849999999,
+                    -0.4110545
+                ]
+            },
+            "Ruislip Manor195": {
+                "Station_Name": "Ruislip Manor",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5730859,
+                    -0.4126507
+                ]
+            },
+            "Russell Square196": {
+                "Station_Name": "Russell Square",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5230694,
+                    -0.1243522
+                ]
+            },
+            "St. James's Park197": {
+                "Station_Name": "St. James's Park",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.4977925,
+                    -0.1345871
+                ]
+            },
+            "St. John's Wood198": {
+                "Station_Name": "St. John's Wood",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5347066,
+                    -0.1740969
+                ]
+            },
+            "St. Paul's199": {
+                "Station_Name": "St. Paul's",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5148788,
+                    -0.09752129999999999
+                ]
+            },
+            "Seven Sisters200": {
+                "Station_Name": "Seven Sisters",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.5828354,
+                    -0.0747757
+                ]
+            },
+            "Shepherd's Bush201": {
+                "Station_Name": "Shepherd's Bush",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.504766,
+                    -0.2186193
+                ]
+            },
+            "Shepherd's Bush Market202": {
+                "Station_Name": "Shepherd's Bush Market",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5056503,
+                    -0.2262516
+                ]
+            },
+            "Sloane Square203": {
+                "Station_Name": "Sloane Square",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.4923519,
+                    -0.1564328
+                ]
+            },
+            "Snaresbrook204": {
+                "Station_Name": "Snaresbrook",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.58097,
+                    0.0215252
+                ]
+            },
+            "South Ealing205": {
+                "Station_Name": "South Ealing",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5013268,
+                    -0.3069292000000001
+                ]
+            },
+            "South Harrow206": {
+                "Station_Name": "South Harrow",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5646375,
+                    -0.352982
+                ]
+            },
+            "South Kensington207": {
+                "Station_Name": "South Kensington",
+                "Lines": "['District', 'Piccadilly', 'Circle']",
+                "Coordinates": [
+                    51.4944371,
+                    -0.1747855
+                ]
+            },
+            "South Kenton208": {
+                "Station_Name": "South Kenton",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.570181,
+                    -0.3083981
+                ]
+            },
+            "South Ruislip209": {
+                "Station_Name": "South Ruislip",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5565782,
+                    -0.3986203
+                ]
+            },
+            "South Wimbledon210": {
+                "Station_Name": "South Wimbledon",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4153355,
+                    -0.1921526
+                ]
+            },
+            "South Woodford211": {
+                "Station_Name": "South Woodford",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5920262,
+                    0.0275967
+                ]
+            },
+            "Southfields212": {
+                "Station_Name": "Southfields",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4453602,
+                    -0.2065672
+                ]
+            },
+            "Southgate213": {
+                "Station_Name": "Southgate",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.632317,
+                    -0.12779
+                ]
+            },
+            "Southwark214": {
+                "Station_Name": "Southwark",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.503926,
+                    -0.1049685
+                ]
+            },
+            "Stamford Brook215": {
+                "Station_Name": "Stamford Brook",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4948604,
+                    -0.2455611
+                ]
+            },
+            "Stanmore216": {
+                "Station_Name": "Stanmore",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.6196644,
+                    -0.3030833
+                ]
+            },
+            "Stepney Green217": {
+                "Station_Name": "Stepney Green",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5219664,
+                    -0.0466614
+                ]
+            },
+            "Stockwell218": {
+                "Station_Name": "Stockwell",
+                "Lines": "['Northern', 'Victoria']",
+                "Coordinates": [
+                    51.47218,
+                    -0.12262
+                ]
+            },
+            "Stonebridge Park219": {
+                "Station_Name": "Stonebridge Park",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.544003,
+                    -0.275359
+                ]
+            },
+            "Stratford220": {
+                "Station_Name": "Stratford",
+                "Lines": "['Central', 'Jubilee']",
+                "Coordinates": [
+                    51.5413146,
+                    -0.0031891
+                ]
+            },
+            "Sudbury Hill221": {
+                "Station_Name": "Sudbury Hill",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5570459,
+                    -0.3361642
+                ]
+            },
+            "Sudbury Town222": {
+                "Station_Name": "Sudbury Town",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5508909,
+                    -0.3155782
+                ]
+            },
+            "Swiss Cottage223": {
+                "Station_Name": "Swiss Cottage",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5434256,
+                    -0.1748548
+                ]
+            },
+            "Temple224": {
+                "Station_Name": "Temple",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.51101,
+                    -0.11423
+                ]
+            },
+            "Theydon Bois225": {
+                "Station_Name": "Theydon Bois",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.6717586,
+                    0.1031114
+                ]
+            },
+            "Tooting Bec226": {
+                "Station_Name": "Tooting Bec",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4355308,
+                    -0.1594954
+                ]
+            },
+            "Tooting Broadway227": {
+                "Station_Name": "Tooting Broadway",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.4276247,
+                    -0.167935
+                ]
+            },
+            "Tottenham Court Road228": {
+                "Station_Name": "Tottenham Court Road",
+                "Lines": "['Central', 'Northern']",
+                "Coordinates": [
+                    51.5162811,
+                    -0.1300406
+                ]
+            },
+            "Tottenham Hale229": {
+                "Station_Name": "Tottenham Hale",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.5881805,
+                    -0.06040450000000001
+                ]
+            },
+            "Totteridge & Whetstone230": {
+                "Station_Name": "Totteridge & Whetstone",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6282972,
+                    -0.1877044
+                ]
+            },
+            "Tower Hill231": {
+                "Station_Name": "Tower Hill",
+                "Lines": "['District', 'Circle']",
+                "Coordinates": [
+                    51.51062,
+                    -0.07479
+                ]
+            },
+            "Tufnell Park232": {
+                "Station_Name": "Tufnell Park",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.5567509,
+                    -0.1379821
+                ]
+            },
+            "Turnham Green233": {
+                "Station_Name": "Turnham Green",
+                "Lines": "['District', 'Piccadilly']",
+                "Coordinates": [
+                    51.495329,
+                    -0.2550356
+                ]
+            },
+            "Turnpike Lane234": {
+                "Station_Name": "Turnpike Lane",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5905216,
+                    -0.1029911
+                ]
+            },
+            "Upminster235": {
+                "Station_Name": "Upminster",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.5589642,
+                    0.2506216
+                ]
+            },
+            "Upminster Bridge236": {
+                "Station_Name": "Upminster Bridge",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.55883619999999,
+                    0.2357609
+                ]
+            },
+            "Upney237": {
+                "Station_Name": "Upney",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.5384153,
+                    0.1015581
+                ]
+            },
+            "Upton Park238": {
+                "Station_Name": "Upton Park",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.535339,
+                    0.03528999999999999
+                ]
+            },
+            "Uxbridge239": {
+                "Station_Name": "Uxbridge",
+                "Lines": "['Metropolitan', 'Piccadilly']",
+                "Coordinates": [
+                    51.5464419,
+                    -0.4780527000000001
+                ]
+            },
+            "Vauxhall240": {
+                "Station_Name": "Vauxhall",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.4859851,
+                    -0.123829
+                ]
+            },
+            "Victoria241": {
+                "Station_Name": "Victoria",
+                "Lines": "['District', 'Circle', 'Victoria']",
+                "Coordinates": [
+                    51.4952103,
+                    -0.1438979
+                ]
+            },
+            "Walthamstow Central242": {
+                "Station_Name": "Walthamstow Central",
+                "Lines": "['Victoria']",
+                "Coordinates": [
+                    51.5830128,
+                    -0.019886
+                ]
+            },
+            "Wanstead243": {
+                "Station_Name": "Wanstead",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5749339,
+                    0.0265103
+                ]
+            },
+            "Warren Street244": {
+                "Station_Name": "Warren Street",
+                "Lines": "['Northern', 'Victoria']",
+                "Coordinates": [
+                    51.5246171,
+                    -0.1381658
+                ]
+            },
+            "Warwick Avenue245": {
+                "Station_Name": "Warwick Avenue",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.52325459999999,
+                    -0.1838447
+                ]
+            },
+            "Waterloo246": {
+                "Station_Name": "Waterloo",
+                "Lines": "['Waterloo & City', 'Bakerloo', 'Northern', 'Jubilee']",
+                "Coordinates": [
+                    51.5031653,
+                    -0.1123051
+                ]
+            },
+            "Watford247": {
+                "Station_Name": "Watford",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.6575024,
+                    -0.4172028
+                ]
+            },
+            "Wembley Central248": {
+                "Station_Name": "Wembley Central",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5520696,
+                    -0.2964124
+                ]
+            },
+            "Wembley Park249": {
+                "Station_Name": "Wembley Park",
+                "Lines": "['Metropolitan', 'Jubilee']",
+                "Coordinates": [
+                    51.5633627,
+                    -0.279352
+                ]
+            },
+            "West Acton250": {
+                "Station_Name": "West Acton",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.5179535,
+                    -0.2809906
+                ]
+            },
+            "West Brompton251": {
+                "Station_Name": "West Brompton",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4872591,
+                    -0.1955188
+                ]
+            },
+            "West Finchley252": {
+                "Station_Name": "West Finchley",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6095641,
+                    -0.18844
+                ]
+            },
+            "West Ham253": {
+                "Station_Name": "West Ham",
+                "Lines": "['District', 'Hammersmith & City', 'Jubilee']",
+                "Coordinates": [
+                    51.5280616,
+                    0.0050881
+                ]
+            },
+            "West Hampstead254": {
+                "Station_Name": "West Hampstead",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.5481379,
+                    -0.1922142
+                ]
+            },
+            "West Harrow255": {
+                "Station_Name": "West Harrow",
+                "Lines": "['Metropolitan']",
+                "Coordinates": [
+                    51.5798551,
+                    -0.3529509
+                ]
+            },
+            "West Kensington256": {
+                "Station_Name": "West Kensington",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4905646,
+                    -0.2064539
+                ]
+            },
+            "West Ruislip257": {
+                "Station_Name": "West Ruislip",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.56976,
+                    -0.43775
+                ]
+            },
+            "Westbourne Park258": {
+                "Station_Name": "Westbourne Park",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.52093499999999,
+                    -0.2007649
+                ]
+            },
+            "Westminster259": {
+                "Station_Name": "Westminster",
+                "Lines": "['District', 'Circle', 'Jubilee']",
+                "Coordinates": [
+                    51.501343,
+                    -0.1248413
+                ]
+            },
+            "White City260": {
+                "Station_Name": "White City",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.511885,
+                    -0.2248305
+                ]
+            },
+            "Whitechapel261": {
+                "Station_Name": "Whitechapel",
+                "Lines": "['District', 'Hammersmith & City']",
+                "Coordinates": [
+                    51.5194973,
+                    -0.0612018
+                ]
+            },
+            "Willesden Green262": {
+                "Station_Name": "Willesden Green",
+                "Lines": "['Jubilee']",
+                "Coordinates": [
+                    51.54917529999999,
+                    -0.2212208
+                ]
+            },
+            "Willesden Junction263": {
+                "Station_Name": "Willesden Junction",
+                "Lines": "['Bakerloo']",
+                "Coordinates": [
+                    51.5322301,
+                    -0.2448957
+                ]
+            },
+            "Wimbledon264": {
+                "Station_Name": "Wimbledon",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4214125,
+                    -0.2054832
+                ]
+            },
+            "Wimbledon Park265": {
+                "Station_Name": "Wimbledon Park",
+                "Lines": "['District']",
+                "Coordinates": [
+                    51.4345521,
+                    -0.1995264
+                ]
+            },
+            "Wood Green266": {
+                "Station_Name": "Wood Green",
+                "Lines": "['Piccadilly']",
+                "Coordinates": [
+                    51.5972173,
+                    -0.11001
+                ]
+            },
+            "Wood Lane267": {
+                "Station_Name": "Wood Lane",
+                "Lines": "['Hammersmith & City', 'Circle']",
+                "Coordinates": [
+                    51.5100237,
+                    -0.2243011
+                ]
+            },
+            "Woodford268": {
+                "Station_Name": "Woodford",
+                "Lines": "['Central']",
+                "Coordinates": [
+                    51.60719830000001,
+                    0.0340548
+                ]
+            },
+            "Woodside Park269": {
+                "Station_Name": "Woodside Park",
+                "Lines": "['Northern']",
+                "Coordinates": [
+                    51.6180026,
+                    -0.185339
+                ]
+            }
+        }
+    },
+    "Lines": {
+        "District": [
+            "Acton Town0",
+            "Aldgate East2",
+            "Barking13",
+            "Barons Court15",
+            "Bayswater16",
+            "Becontree17",
+            "Blackfriars21",
+            "Bow Road27",
+            "Bromley-by-Bow30",
+            "Cannon Street38",
+            "Chiswick Park46",
+            "Dagenham East56",
+            "Dagenham Heathway57",
+            "Ealing Broadway60",
+            "Ealing Common61",
+            "Earl's Court62",
+            "East Ham65",
+            "East Putney66",
+            "Edgware Road70",
+            "Elm Park72",
+            "Embankment73",
+            "Fulham Broadway82",
+            "Gloucester Road84",
+            "Gunnersbury92",
+            "Hammersmith94",
+            "High Street Kensington109",
+            "Hornchurch114",
+            "Kensington (Olympia)122",
+            "Kew Gardens125",
+            "Mansion House143",
+            "Mile End146",
+            "Monument148",
+            "Notting Hill Gate165",
+            "Paddington171",
+            "Parsons Green174",
+            "Plaistow179",
+            "Putney Bridge181",
+            "Ravenscourt Park185",
+            "Richmond189",
+            "St. James's Park197",
+            "Sloane Square203",
+            "South Kensington207",
+            "Southfields212",
+            "Stamford Brook215",
+            "Stepney Green217",
+            "Temple224",
+            "Tower Hill231",
+            "Turnham Green233",
+            "Upminster235",
+            "Upminster Bridge236",
+            "Upney237",
+            "Upton Park238",
+            "Victoria241",
+            "West Brompton251",
+            "West Ham253",
+            "West Kensington256",
+            "Westminster259",
+            "Whitechapel261",
+            "Wimbledon264",
+            "Wimbledon Park265"
+        ],
+        "Piccadilly": [
+            "Acton Town0",
+            "Alperton3",
+            "Arnos Grove7",
+            "Arsenal8",
+            "Barons Court15",
+            "Boston Manor25",
+            "Bounds Green26",
+            "Caledonian Road33",
+            "Cockfosters51",
+            "Covent Garden54",
+            "Ealing Common61",
+            "Earl's Court62",
+            "Eastcote67",
+            "Finsbury Park81",
+            "Gloucester Road84",
+            "Green Park91",
+            "Hammersmith94",
+            "Hatton Cross101",
+            "Heathrow Terminals 2 & 3102",
+            "Heathrow Terminal 4103",
+            "Heathrow Terminal 5104",
+            "Hillingdon110",
+            "Holborn111",
+            "Holloway Road113",
+            "Hounslow Central115",
+            "Hounslow East116",
+            "Hounslow West117",
+            "Hyde Park Corner118",
+            "Ickenham119",
+            "King's Cross St Pancras129",
+            "Knightsbridge130",
+            "Leicester Square135",
+            "Manor House142",
+            "North Ealing156",
+            "Northfields160",
+            "Oakwood166",
+            "Osterley168",
+            "Park Royal173",
+            "Piccadilly Circus176",
+            "Rayners Lane186",
+            "Ruislip193",
+            "Ruislip Manor195",
+            "Russell Square196",
+            "South Ealing205",
+            "South Harrow206",
+            "South Kensington207",
+            "Southgate213",
+            "Sudbury Hill221",
+            "Sudbury Town222",
+            "Turnham Green233",
+            "Turnpike Lane234",
+            "Uxbridge239",
+            "Wood Green266"
+        ],
+        "Metropolitan": [
+            "Aldgate1",
+            "Amersham4",
+            "Baker Street9",
+            "Barbican12",
+            "Chalfont & Latimer40",
+            "Chesham44",
+            "Chorleywood47",
+            "Croxley55",
+            "Eastcote67",
+            "Euston Square76",
+            "Farringdon78",
+            "Finchley Road80",
+            "Great Portland Street89",
+            "Harrow-on-the-Hill100",
+            "Hillingdon110",
+            "Ickenham119",
+            "King's Cross St Pancras129",
+            "Liverpool Street138",
+            "Moorgate149",
+            "Moor Park150",
+            "North Harrow158",
+            "Northwick Park162",
+            "Northwood163",
+            "Northwood Hills164",
+            "Pinner178",
+            "Preston Road180",
+            "Rayners Lane186",
+            "Rickmansworth190",
+            "Ruislip193",
+            "Ruislip Manor195",
+            "Uxbridge239",
+            "Watford247",
+            "Wembley Park249",
+            "West Harrow255"
+        ],
+        "Circle": [
+            "Aldgate1",
+            "Baker Street9",
+            "Barbican12",
+            "Bayswater16",
+            "Blackfriars21",
+            "Cannon Street38",
+            "Edgware Road70",
+            "Embankment73",
+            "Euston Square76",
+            "Farringdon78",
+            "Gloucester Road84",
+            "Goldhawk Road86",
+            "Great Portland Street89",
+            "Hammersmith95",
+            "High Street Kensington109",
+            "King's Cross St Pancras129",
+            "Ladbroke Grove131",
+            "Latimer Road134",
+            "Liverpool Street138",
+            "Mansion House143",
+            "Monument148",
+            "Moorgate149",
+            "Notting Hill Gate165",
+            "Paddington171",
+            "Paddington172",
+            "Royal Oak192",
+            "St. James's Park197",
+            "Shepherd's Bush Market202",
+            "Sloane Square203",
+            "South Kensington207",
+            "Temple224",
+            "Tower Hill231",
+            "Victoria241",
+            "Westbourne Park258",
+            "Westminster259",
+            "Wood Lane267"
+        ],
+        "Hammersmith & City": [
+            "Aldgate East2",
+            "Baker Street9",
+            "Barbican12",
+            "Barking13",
+            "Bow Road27",
+            "Bromley-by-Bow30",
+            "East Ham65",
+            "Edgware Road70",
+            "Euston Square76",
+            "Farringdon78",
+            "Goldhawk Road86",
+            "Great Portland Street89",
+            "Hammersmith95",
+            "King's Cross St Pancras129",
+            "Ladbroke Grove131",
+            "Latimer Road134",
+            "Liverpool Street138",
+            "Mile End146",
+            "Moorgate149",
+            "Paddington172",
+            "Plaistow179",
+            "Royal Oak192",
+            "Shepherd's Bush Market202",
+            "Stepney Green217",
+            "Upton Park238",
+            "West Ham253",
+            "Westbourne Park258",
+            "Whitechapel261",
+            "Wood Lane267"
+        ],
+        "Northern": [
+            "Angel5",
+            "Archway6",
+            "Balham10",
+            "Bank11",
+            "Belsize Park18",
+            "Borough24",
+            "Brent Cross28",
+            "Burnt Oak32",
+            "Camden Town34",
+            "Chalk Farm41",
+            "Charing Cross43",
+            "Clapham Common48",
+            "Clapham North49",
+            "Clapham South50",
+            "Colindale52",
+            "Colliers Wood53",
+            "East Finchley64",
+            "Edgware68",
+            "Elephant & Castle71",
+            "Embankment73",
+            "Euston75",
+            "Finchley Central79",
+            "Golders Green85",
+            "Goodge Street87",
+            "Hampstead96",
+            "Hendon Central105",
+            "High Barnet106",
+            "Highgate108",
+            "Kennington120",
+            "Kentish Town123",
+            "King's Cross St Pancras129",
+            "Leicester Square135",
+            "London Bridge139",
+            "Mill Hill East147",
+            "Moorgate149",
+            "Morden151",
+            "Mornington Crescent152",
+            "Old Street167",
+            "Oval169",
+            "South Wimbledon210",
+            "Stockwell218",
+            "Tooting Bec226",
+            "Tooting Broadway227",
+            "Tottenham Court Road228",
+            "Totteridge & Whetstone230",
+            "Tufnell Park232",
+            "Warren Street244",
+            "Waterloo246",
+            "West Finchley252",
+            "Woodside Park269"
+        ],
+        "Bakerloo": [
+            "Baker Street9",
+            "Charing Cross43",
+            "Edgware Road69",
+            "Elephant & Castle71",
+            "Embankment73",
+            "Harlesden98",
+            "Harrow & Wealdstone99",
+            "Kensal Green121",
+            "Kenton124",
+            "Kilburn Park127",
+            "Lambeth North132",
+            "Maida Vale141",
+            "Marylebone145",
+            "North Wembley159",
+            "Oxford Circus170",
+            "Paddington171",
+            "Piccadilly Circus176",
+            "Queen's Park182",
+            "Regent's Park188",
+            "South Kenton208",
+            "Stonebridge Park219",
+            "Warwick Avenue245",
+            "Waterloo246",
+            "Wembley Central248",
+            "Willesden Junction263"
+        ],
+        "Jubilee": [
+            "Baker Street9",
+            "Bermondsey19",
+            "Bond Street23",
+            "Canada Water35",
+            "Canary Wharf36",
+            "Canning Town37",
+            "Canons Park39",
+            "Dollis Hill59",
+            "Finchley Road80",
+            "Green Park91",
+            "Kilburn126",
+            "Kingsbury128",
+            "London Bridge139",
+            "Neasden153",
+            "North Greenwich157",
+            "Queensbury183",
+            "St. John's Wood198",
+            "Southwark214",
+            "Stanmore216",
+            "Stratford220",
+            "Swiss Cottage223",
+            "Waterloo246",
+            "Wembley Park249",
+            "West Ham253",
+            "West Hampstead254",
+            "Westminster259",
+            "Willesden Green262"
+        ],
+        "Waterloo & City": [
+            "Bank11",
+            "Waterloo246"
+        ],
+        "Central": [
+            "Bank11",
+            "Barkingside14",
+            "Bethnal Green20",
+            "Bond Street23",
+            "Buckhurst Hill31",
+            "Chancery Lane42",
+            "Chigwell45",
+            "Debden58",
+            "Ealing Broadway60",
+            "East Acton63",
+            "Epping74",
+            "Fairlop77",
+            "Gants Hill83",
+            "Grange Hill88",
+            "Greenford90",
+            "Hainault93",
+            "Hanger Lane97",
+            "Holborn111",
+            "Holland Park112",
+            "Lancaster Gate133",
+            "Leyton136",
+            "Leytonstone137",
+            "Liverpool Street138",
+            "Loughton140",
+            "Marble Arch144",
+            "Mile End146",
+            "Newbury Park154",
+            "North Acton155",
+            "Northolt161",
+            "Notting Hill Gate165",
+            "Oxford Circus170",
+            "Perivale175",
+            "Queensway184",
+            "Redbridge187",
+            "Roding Valley191",
+            "Ruislip Gardens194",
+            "St. Paul's199",
+            "Shepherd's Bush201",
+            "Snaresbrook204",
+            "South Ruislip209",
+            "South Woodford211",
+            "Stratford220",
+            "Theydon Bois225",
+            "Tottenham Court Road228",
+            "Wanstead243",
+            "West Acton250",
+            "West Ruislip257",
+            "White City260",
+            "Woodford268"
+        ],
+        "Victoria": [
+            "Blackhorse Road22",
+            "Brixton29",
+            "Euston75",
+            "Finsbury Park81",
+            "Green Park91",
+            "Highbury & Islington107",
+            "King's Cross St Pancras129",
+            "Oxford Circus170",
+            "Pimlico177",
+            "Seven Sisters200",
+            "Stockwell218",
+            "Tottenham Hale229",
+            "Vauxhall240",
+            "Victoria241",
+            "Walthamstow Central242",
+            "Warren Street244"
+        ]
+    }
+}
