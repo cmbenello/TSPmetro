@@ -4,6 +4,7 @@ from urllib.request import urlopen
 import numpy as np
 from node import *
 import re
+import requests
 from metro import *
 from node import *
 
@@ -35,7 +36,12 @@ def Lines(Station_Lines): #removes duplicates from station_lines
                 list_of_lines.append(j)
     return(list_of_lines)
 
-def Stations(url):  #gets a list of stations
+def testWeb(url):
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html.parser')
+    print(soup.find_all('div'))
+
+def Stations(url):  #returns all nodes with their Name, ID, and Lines
     df = pd.read_html(url)[0]
     station_id = []
     for i in range(len(df['Station'])):
@@ -45,5 +51,15 @@ def Stations(url):  #gets a list of stations
     df['Lines'] = Station_Lines(url)
     stations = []
     for i in range(len(df['Station'])):
-        stations.append(Node(df['Station'][i],df['ID'][i],df['Lines']))
+        stations.append(Node(df['Station'][i],df['ID'][i],df['Lines'][i]))
     return(stations)
+
+def sol(Stations): #stations on lines
+    lines = {}
+    for station in Stations:
+        for line in station.Lines:
+            if line not in lines:
+                lines[line] = [station.ID]
+            else:
+                lines[line].append(station.ID)
+    return(lines)
