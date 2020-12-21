@@ -20,9 +20,11 @@ class Metro:
         file_name = "Tspfile.txt"
         File_Dict = create_dict(self)
         write_file(File_Dict,file_name)
+        print("HI")
         if connections == True:
+            print("Pain")
             erase_file(file_name)
-            print(type(matrix_grid(connection_matrix(file_name)))) #should create matrix before erasing file9
+            print(type(matrix_grid(connection_matrix(file_name)))) #should create matrix before erasing file
             File_Dict["Connections"] = matrix_grid(connection_matrix(file_name))
             write_file(File_Dict,file_name)
 

@@ -15,6 +15,7 @@ def create_dict(metro):
         #print(str(i.Name)+ " station, "+ str(metro.City_Name))
         Stations[i.ID] = {"Station_Name":str(i.Name), "Lines":str(i.Lines),"Coordinates":coord_dict[i.ID]} #todo figure out conditional formating
         Station_names.append(i.ID)
+        print(i.ID)
     Stations_Dict =  {"List of stations": Station_names, "Properties of stations": Stations}
 
     dict = {"City_Name": metro.City_Name, "Stations":Stations_Dict, "Lines":lines}

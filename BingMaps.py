@@ -19,9 +19,12 @@ def _url(path):
     return ("https://maps.googleapis.com/maps/api/directions/json?{}&mode=transit&key={}".format(path, MyKey))
 
 def route(origin, destination):
-    print(_url("origin={}&destination={}&transit_mode=subway".format(origin.replace(" ","+"),destination.replace(" ","+"))))
-    #print(_url("origin={}&destination={}&transit_mode=subway".format('High+Street+Kensington,+Kensington+Arcade,+Kensington+High+St,+London', 'Edgware+Road+Station,+London')))
+    #print(_url("origin={}&destination={}&transit_mode=subway".format(origin.replace(" ","+"),destination.replace(" ","+"))))
     return (requests.get(_url("origin={}&destination={}&transit_mode=subway".format(origin.replace(" ","+"), destination.replace(" ","+"))))) #this is a key part, becuase it assumes that all underground services use subways instead of trains
+
+def get_polyline(route):
+    x = route.json()
+    return(x['routes'][0]['overview_polyline'])
 
 def read_file(file_name): #reads a file
     with open(file_name, 'r') as json_file:
@@ -78,7 +81,6 @@ def is_connected_old_2(origin,destination):
 
 def is_connected(origin,destination,line):
     x = route(origin, destination).json()
-    print(_url("origin={}&destination={}&transit_mode=subway".format(origin, destination)))
     steps = x['routes'][0]['legs'][0]['steps']
     num_stops = 0
     for i in steps:  # goes through each of the steps
@@ -89,13 +91,11 @@ def is_connected(origin,destination,line):
             poly_line = i['polyline']['points']
             Line  = transit_details['line']['name'].replace(" line","")
             instructions = {"Line" : line, "Polyline" : poly_line}
-    print(line)
-    print(Line)
     if num_stops == 1 and Line == line:
         return (route_time, instructions)
     else:
         return(float('inf'),[])
-    #print(steps)
+
 #todo find out how edgware road works
 def connection_info(origin,destination):#will input origin,destination but for testing doesn't have
     for i in steps: #goes through each of the steps
@@ -127,17 +127,18 @@ def connection_matrix(file_name): #reads file and uses the information to create
                     destination_name = decoded[destination]["Station_Name"] + ", " + str(city_name)
                     row = Stations_List.index(destination)
                     column = Stations_List.index(origin) #todo how does two lines affect the route between stations?
-                    time = is_connected(origin_name,destination_name)[0]
-                    instructions = is_connected(origin_name,destination_name)[1]
+                    time = is_connected(origin_name,destination_name,key)[0]
+                    instructions = is_connected(origin_name,destination_name,key)[1]
                     Matrix[column][row] = [time,instructions]
+                    print(origin_name,destination_name,time,instructions)
                     if time  != float('inf'):
                         print(str(origin_name) + " is connected to " + str(destination_name))
     return(Matrix)
 
-def furthest_on_line(file_name):
+def coordinates_line(file_name):
     file = read_file(file_name)
     city_name = file['City_Name']
-    line_distance = {}
+    output = {}
     for key, lines in file['Lines'].items():
         coords_list = []
         for place in lines:
@@ -145,8 +146,8 @@ def furthest_on_line(file_name):
             name = decoded[place]["Station_Name"] + ", " + str(city_name)
             coords = decoded[place]["Coordinates"]
             coords_list.append([name,coords])
-        line_distance[key] = max_distance(coords_list)
-    return(line_distance)
+        output[key] = coords_list
+    return(output)
 
 def max_distance(stations):
     max = ['origin','destination',0]
@@ -175,17 +176,17 @@ def coordinates(place,country): #this is finding the distance between stations s
 def coordinates_dict(metro):
     coordinates_dict = {}
     for i in metro.Stations:
-        print(i.Name)
-        coordinates_dict[i.ID] = [coordinates(str(i.Name) + " station, " + str(metro.City_Name), metro.Country_Name),i.Name]
+        coordinates_dict[i.ID] = coordinates(str(i.Name) + " station, " + str(metro.City_Name), metro.Country_Name)
     return(coordinates_dict)
 
 def outliers(metro): #returns a list of coordinates without the outliers
     coord_dict = coordinates_dict(metro)
+    print("HI")
     x_list = []
     y_list = []
     for key,values in coord_dict.items():
-        x_list.append(values[0][0])
-        y_list.append(values[0][1])
+        x_list.append(values[0])
+        y_list.append(values[1])
     mean_x = statistics.mean(x_list)
     mean_y = statistics.mean(y_list)
     sd_x = statistics.stdev(x_list)
@@ -197,20 +198,10 @@ def outliers(metro): #returns a list of coordinates without the outliers
     output = {}
     problem = {}
     for name, coord in coord_dict.items():
-        if (lower_x<coord[0][0]<upper_x) and (lower_y<coord[0][1]<upper_y):
+        if (lower_x<coord[0]<upper_x) and (lower_y<coord[1]<upper_y):
             output[name] = coord
-            print(name)
         else:
-            problem[name] = coord
-    print(output(list(output)[0]))
-    known = str(output(list(output)[0]))
-    for key,values in problem.items():
-        print(known)
-        print(problem)
-        print(values[1]) #right now trying to figure out how to get coordinates of places that are giving errors
-
-        x = route(str(known) + " station,+" + str(metro.City_Name), str(values[1]) + " station, " + str(metro.City_Name)).json()
-        print(x)
+            output[name] = (float('inf'),float('inf'))
     return(output)
 
 def distance(place1,place2):
@@ -218,5 +209,23 @@ def distance(place1,place2):
         return(haversine(place1,place2,unit=Unit.METERS))
 #todo nneed to find way to deal with multiple lines between the same nodes - I presume just use the shortest one?
 
-def line_connector(line):
-    temp = 0
+def stations_on_polyline(stations,Polyline):
+    decoded = polyline.decode(Polyline)
+    on_line = []
+    temp = []
+    for station in stations:
+        for point in decoded:
+            temp.append(distance(station[1],point))
+            if distance(station[1],point) < 100:
+               on_line.append(station)
+    print(sorted(temp))
+    return(station)
+
+def line_connection(line):
+    visited = line
+    unvisited = []
+    if len(visited) > 0:
+        max = max_distance(visited)
+        path = get_polyline(route(max[0][0],max[1][0]))
+        print(stations_on_polyline(visited,path['points']))
+

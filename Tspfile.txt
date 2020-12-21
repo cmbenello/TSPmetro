@@ -534,8 +534,8 @@
                 "Station_Name": "Burnt Oak",
                 "Lines": "['Northern']",
                 "Coordinates": [
-                    51.6026868,
-                    -0.2641567
+                    51.6028241,
+                    -0.2640713
                 ]
             },
             "Caledonian Road33": {
@@ -974,8 +974,8 @@
                 "Station_Name": "Goodge Street",
                 "Lines": "['Northern']",
                 "Coordinates": [
-                    51.52049659999999,
-                    -0.1346317
+                    51.5205407,
+                    -0.1345274
                 ]
             },
             "Grange Hill88": {
@@ -1174,8 +1174,8 @@
                 "Station_Name": "Holland Park",
                 "Lines": "['Central']",
                 "Coordinates": [
-                    51.50714000000001,
-                    -0.20565
+                    51.507349,
+                    -0.2056368
                 ]
             },
             "Holloway Road113": {
@@ -1918,8 +1918,8 @@
                 "Station_Name": "South Ealing",
                 "Lines": "['Piccadilly']",
                 "Coordinates": [
-                    51.5013268,
-                    -0.3069292000000001
+                    51.5013134,
+                    -0.3069393
                 ]
             },
             "South Harrow206": {
@@ -2038,8 +2038,8 @@
                 "Station_Name": "Stratford",
                 "Lines": "['Central', 'Jubilee']",
                 "Coordinates": [
-                    51.5413146,
-                    -0.0031891
+                    51.5415326,
+                    -0.0028007
                 ]
             },
             "Sudbury Hill221": {
@@ -2142,8 +2142,8 @@
                 "Station_Name": "Turnham Green",
                 "Lines": "['District', 'Piccadilly']",
                 "Coordinates": [
-                    51.495329,
-                    -0.2550356
+                    51.4953024,
+                    -0.2549973
                 ]
             },
             "Turnpike Lane234": {
@@ -2334,8 +2334,8 @@
                 "Station_Name": "West Ruislip",
                 "Lines": "['Central']",
                 "Coordinates": [
-                    51.56976,
-                    -0.43775
+                    51.56969960000001,
+                    -0.4377729
                 ]
             },
             "Westbourne Park258": {
